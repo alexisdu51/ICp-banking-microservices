@@ -10,6 +10,7 @@
 var url_api_devloper_portal = "https://api.us.apiconnect.ibmcloud.com/spbodieusibmcom-prod/developer-contest/mplbank";
 
 
+
 // Your API ClientID
 var IBM_CLIENT_ID = "YOUR_CLIENT_ID_HERE";
 
